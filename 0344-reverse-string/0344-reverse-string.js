@@ -6,5 +6,5 @@ var reverseString = function (s) {
 	
 
 	const reverseStr = s.reverse();
-	console.log(reverseStr);
+	
 };
